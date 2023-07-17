@@ -112,7 +112,7 @@ int server_fd, new_socket, valread;
 
 For set mode and get mode refer the main.cpp file on this repo. All the JSON required for communication are defined in [TinyCI-Dashboard Readme](https://github.com/NatFederico/TinyCI-Dashboard)
 
-# Authors
+## Authors
 
 Matteo Gastaldello
 
@@ -120,8 +120,8 @@ Federico Natali
 
 Matteo Sabella
 
-# Acknowledgments
+## Acknowledgments
 
 <a href="https://www.unitn.it/">
-  <img src="/assets/logo_unitn_it.png" width="300px">
+  <img src="https://github.com/matteogastaldello/TinyCI/assets/95225168/6a5678f0-87e0-4cea-97ef-6f7c31bf0f95" width="300px">
 </a>
